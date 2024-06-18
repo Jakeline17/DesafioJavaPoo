@@ -30,4 +30,3 @@ public class Curso extends Conteudo{
                 '}';
     }
 }
-
